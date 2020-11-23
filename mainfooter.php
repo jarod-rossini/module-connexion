@@ -9,9 +9,9 @@
 	</div>
 	<div class="link_container">
 		<p><a href="index.php">Accueil</p>
-		<p><a href="connexion.php">Connexion</p>
-		<p><a href="inscription.php">Inscription</p>
-		<p><a href="profil.php">Profil</p>
-		<p><a href="admin.php">Admin</p>
+		<p class="liconnexion"><a href="connexion.php">Connexion</p>
+		<p class="liinscription"><a href="inscription.php">Inscription</p>
+		<p class="liadmin"><a href="admin.php">Admin</p>
+		<p class="liprofil"><a href="profil.php">Profil</p>
 	</div>
 </footer>

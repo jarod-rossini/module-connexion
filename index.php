@@ -7,15 +7,7 @@
 	</head>
 	<body>
 		<?php include 'mainheader.php' ?>
-		<main class="mainindex">
-			<h2>Inscription</h2>
-			<form method="post">
-				<label>E-mail</label><br>
-					<input required type="email" placeholder="exemple@email.com" maxlength="255"/><br><br>
-				<label>Mot de passe</label><br>
-					<input required type="password" maxlength="255"/><br><br>
-				<input type="submit"/>
-			</form>
+		<main>
 		</main>
 		<?php include 'mainfooter.php' ?>
 	</body>
